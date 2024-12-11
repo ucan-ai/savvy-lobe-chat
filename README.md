@@ -246,14 +246,14 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 
 <!-- PLUGIN LIST -->
 
-| Recent Submits                                                                                                                     | Description                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tongyi wanxiang Image Generator](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **YoungTx** on **2024-08-09**</sup> | This plugin uses Alibaba's Tongyi Wanxiang model to generate images based on text prompts.<br/>`image` `tongyi` `wanxiang`                |
-| [Shopping tools](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **shoppingtools** on **2024-07-19**</sup>            | Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.<br/>`shopping` `e-bay` `ali-express` `coupons` |
-| [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup>             | Realtime stock, crypto and other investment data.<br/>`stock` `analyze`                                                                   |
-| [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>                     | Search aggregation service, specifically designed for LLMs<br/>`web` `search`                                                             |
+| Recent Submits                                                                                                 | Description                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [Google CSE](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
+| [Google CSE](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
+| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
+| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
 
-> 📊 Total plugins: [<kbd>**49**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**98**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -285,14 +285,14 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 <!-- AGENT LIST -->
 
-| Recent Submits                                                                                                                                                            | Description                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Algorithm Answer Mentor](https://chat-preview.lobehub.com/market?agent=leetcode-tutor)<br/><sup>By **[Stark-X](https://github.com/Stark-X)** on **2024-10-21**</sup>     | Specializes in LeetCode algorithm solutions and user guidance<br/>`algorithm` `problem-solving` `programming` `education`                                                                                             |
-| [Psychologist](https://chat-preview.lobehub.com/market?agent=psychological-counselor)<br/><sup>By **[JIANGTUNAN](https://github.com/JIANGTUNAN)** on **2024-10-21**</sup> | An experienced psychologist, warmly and patiently listening to your story.<br/>`psychological-counseling` `consultation` `sharing` `friendly` `doctor` `counselor`                                                    |
-| [Boxing Training Master](https://chat-preview.lobehub.com/market?agent=boxing-master)<br/><sup>By **[Luyi-2333](https://github.com/Luyi-2333)** on **2024-10-15**</sup>   | Expert in boxing training guidance and personalized plan development<br/>`boxing-training` `personalized-plans` `fitness-guidance` `progress-evaluation` `technique-improvement` `health-and-nutrition`               |
-| [Coconut](https://chat-preview.lobehub.com/market?agent=deep-thinker-ai)<br/><sup>By **[hia1234](https://github.com/hia1234)** on **2024-10-15**</sup>                    | A chatbot that undergoes several reviews of its responses, checking whether there is a basis for its statements and actively requesting feedback while engaging in repeated interactions.<br/>`programming` `general` |
+| Recent Submits                                                                                                                                                                        | Description                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [System Instruction Expert](https://chat-preview.lobehub.com/market?agent=instructer)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>               | Skilled in refining and generating efficient system instructions<br/>`system-instructions` `writing` `detail-optimization` `user-needs`                                  |
+| [Japanese Memory Helper](https://chat-preview.lobehub.com/market?agent=japan-language-helper)<br/><sup>By **[sharkbear212](https://github.com/sharkbear212)** on **2024-12-04**</sup> | Specializes in Japanese Hiragana, Katakana, vocabulary, and memory techniques for explanations and phrases<br/>`explanation` `memory-techniques` `japanese-teaching`     |
+| [Poetry Card Designer](https://chat-preview.lobehub.com/market?agent=poetry-card-designer)<br/><sup>By **[lianxin255](https://github.com/lianxin255)** on **2024-12-03**</sup>        | Skilled in designing poetry cards to enhance artistic sense and appeal<br/>`poetry-card-design` `card` `creativity` `artistic-expression`                                |
+| [Daily Doctor](https://chat-preview.lobehub.com/market?agent=yunchat-docter)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>                        | Specializes in surgical diagnosis and personalized health management<br/>`general-medicine` `surgery` `health-consultation` `personalized-treatment` `medical-education` |
 
-> 📊 Total agents: [<kbd>**420**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**453**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
